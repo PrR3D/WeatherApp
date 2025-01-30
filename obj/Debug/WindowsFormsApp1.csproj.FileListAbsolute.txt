@@ -1,0 +1,13 @@
+E:\IEK_PL\Csharp 4o_6m\Askisi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\IEK_PL\Csharp 4o_6m\Askisi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\IEK_PL\Csharp 4o_6m\Askisi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\IEK_PL\Csharp 4o_6m\Askisi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\IEK_PL\Csharp 4o_6m\Askisi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WeatherReport.resources
+E:\IEK_PL\Csharp 4o_6m\Askisi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\IEK_PL\Csharp 4o_6m\Askisi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\IEK_PL\Csharp 4o_6m\Askisi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\IEK_PL\Csharp 4o_6m\Askisi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\IEK_PL\Csharp 4o_6m\Askisi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\IEK_PL\Csharp 4o_6m\Askisi\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+E:\IEK_PL\Csharp 4o_6m\Askisi\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+E:\IEK_PL\Csharp 4o_6m\Askisi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
