@@ -2,11 +2,9 @@
  This is an app that tells you the Weather of the city you like.
 
 ✅ MAIN MENU:
- 
 ![Image](https://github.com/user-attachments/assets/b610f315-26af-4995-a2af-caae6da15c33)
 
 ✅ THESSALONIKI EXAMPLE:
- 
 ![Image](https://github.com/user-attachments/assets/c7bafb75-0b44-4e38-8cc4-09b4ffa64264)
 
 ✅ ATHENS EXAMPLE:
