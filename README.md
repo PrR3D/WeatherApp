@@ -1,5 +1,12 @@
-# WeatherApp
- This is an app that tells you the Weather of the city you like.
+# 🌦️ Weather App – Your Personal Forecast Companion
+This is a weather app that allows you to check the current weather conditions for any city you choose. Built with a focus on simplicity and accuracy, it fetches real-time data and presents it in a clear and user-friendly interface.
+
+## 🔹 Key Features:
+### ☀ Live Weather Updates
+### 🌍 Global City Search
+### 🎨 Clean & Responsive UI
+
+Whether you’re planning a trip or just want to know if you need an umbrella, this app has you covered! ☔
 
 ✅ MAIN MENU:
 ![Image](https://github.com/user-attachments/assets/b610f315-26af-4995-a2af-caae6da15c33)
