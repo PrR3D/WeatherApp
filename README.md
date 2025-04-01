@@ -1,4 +1,4 @@
-# 🌦️ Weather App – Your Personal Forecast Companion
+# 🌦️ Weather App
 This is a weather app that allows you to check the current weather conditions for any city you choose. Built with a focus on simplicity and accuracy, it fetches real-time data and presents it in a clear and user-friendly interface.
 
 ## 🔹 Key Features:
